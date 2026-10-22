@@ -1,46 +1,63 @@
+<h1 align="center">Gabriel Guirra <code>kewksv</code></h1>
 
-# Gabriel Guirra
+<p align="center">
+  <b>Information Security Student</b> · Networking · Linux · Python<br>
+  FATEC Araraquara, Brazil 🇧🇷
+</p>
 
-### Information Security Student | Networking, Linux & Cybersecurity
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
+  <img src="https://img.shields.io/badge/Linux-CLI-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Learning-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
 
-Information Security student at FATEC Araraquara, Brazil, building a strong foundation in computer networks, Linux, programming, and cybersecurity.
+```text
+kewksv@fatec:~$ whoami
+gabriel guirra - infosec student, building fundamentals one packet at a time
 
-I enjoy learning how systems communicate, understanding network infrastructure, and exploring the fundamentals of information security.
+kewksv@fatec:~$ cat goals.txt
+networking -> linux -> python -> cybersecurity
+```
 
-## About Me
+## 👋 About Me
 
-- 🎓 Studying Information Security at FATEC Araraquara.
-- 🌐 Learning networking fundamentals and TCP/IP.
-- 🐧 Exploring Linux and command-line tools.
-- 🐍 Practicing Python and programming logic.
-- 🔐 Working toward a career in cybersecurity.
+- 🎓 Studying Information Security at **FATEC Araraquara**
+- 🌐 Learning how networks really work, from TCP/IP up
+- 🐧 Living in the Linux terminal as much as possible
+- 🐍 Practicing Python and programming logic
+- 🔐 Working toward a career in cybersecurity
 
-## Technical Foundations
+## 🛠️ Technical Foundations
 
 | Area | Topics |
 |---|---|
-| Networking | TCP/IP, IPv4, IPv6, DNS, DHCP, NAT |
-| Network Diagnostics | ping, tracert, nslookup, netstat, arp |
-| Programming | Python fundamentals, logic, problem-solving |
-| Systems | Linux fundamentals and CLI |
+| 🌐 Networking | TCP/IP, IPv4, IPv6, DNS, DHCP, NAT |
+| 🔎 Network Diagnostics | `ping`, `tracert`, `nslookup`, `netstat`, `arp` |
+| 🐍 Programming | Python fundamentals, logic, problem-solving |
+| 🐧 Systems | Linux fundamentals and CLI |
 
-## Projects
+## 📂 Projects
 
 ### [Aulas-FATEC](https://github.com/kewksv/Aulas-FATEC)
 
 Academic exercises and practical activities from my Information Security degree.
 
-- Python fundamentals and programming logic.
-- Input, output, conditionals, and arithmetic operations.
-- Exercises organized to document my learning progress.
+- Python fundamentals and programming logic
+- Input, output, conditionals, and arithmetic operations
+- Exercises organized to document my learning progress
 
-## Current Goals
+## 🎯 Current Goals
 
-- Strengthen my knowledge of networking and Linux.
-- Practice cybersecurity in authorized lab environments.
-- Build and document projects that demonstrate my skills.
-- Prepare for an entry-level opportunity in IT and cybersecurity.
+- [ ] Strengthen my knowledge of networking and Linux
+- [ ] Practice cybersecurity in authorized lab environments
+- [ ] Build and document projects that demonstrate my skills
+- [ ] Prepare for an entry-level opportunity in IT and cybersecurity
+
+## 📫 Connect
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Guirra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
-*Learning by doing. Improving one step at a time.*
+<p align="center"><i>Learning by doing. Improving one step at a time.</i></p>
