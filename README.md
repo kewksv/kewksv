@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**kewksv/kewksv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gabriel Guirra
 
-Here are some ideas to get you started:
+### Cybersecurity Student | FATEC Araraquara
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in cybersecurity, computer networks, Linux, and information security.
+
+I'm currently building my technical foundation through academic studies, programming exercises, and continuous learning.
+
+---
+
+## About Me
+
+- 🎓 Information Security student at FATEC Araraquara, Brazil.
+- 🌐 Studying computer networks and TCP/IP protocols.
+- 🐧 Interested in Linux and network security.
+- 🐍 Learning Python and programming logic.
+- 🔐 Aspiring cybersecurity professional.
+
+## Currently Learning
+
+- **Networking:** TCP/IP, IPv4, IPv6, subnetting, DNS, DHCP, and NAT.
+- **Network Troubleshooting:** `ping`, `tracert`, `nslookup`, `netstat`, and `arp`.
+- **Infrastructure:** Routers, switches, and firewalls.
+- **Programming:** Python fundamentals and problem-solving.
+- **Information Security:** Core concepts and security fundamentals.
+
+## Projects & Coursework
+
+### [Aulas-FATEC](https://github.com/kewksv/Aulas-FATEC)
+
+Academic exercises and programming activities developed during my Information Security degree.
+
+**Focus:** Python fundamentals, programming logic, and practical exercises.
+
+## Goals
+
+- Strengthen my foundations in networking and Linux.
+- Develop practical cybersecurity skills through authorized labs.
+- Build projects that demonstrate my technical progress.
+- Pursue an entry-level opportunity in IT and cybersecurity.
+
+---
+
+*Learning, practicing, and building one step at a time.*
