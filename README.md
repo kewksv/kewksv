@@ -56,7 +56,7 @@ Academic exercises and practical activities from my Information Security degree.
 
 ## 📫 Connect
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Guirra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kewksv/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Guirra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
