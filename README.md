@@ -1,45 +1,46 @@
 
 # Gabriel Guirra
 
-### Cybersecurity Student | FATEC Araraquara
+### Information Security Student | Networking, Linux & Cybersecurity
 
-Interested in cybersecurity, computer networks, Linux, and information security.
+Information Security student at FATEC Araraquara, Brazil, building a strong foundation in computer networks, Linux, programming, and cybersecurity.
 
-I'm currently building my technical foundation through academic studies, programming exercises, and continuous learning.
-
----
+I enjoy learning how systems communicate, understanding network infrastructure, and exploring the fundamentals of information security.
 
 ## About Me
 
-- 🎓 Information Security student at FATEC Araraquara, Brazil.
-- 🌐 Studying computer networks and TCP/IP protocols.
-- 🐧 Interested in Linux and network security.
-- 🐍 Learning Python and programming logic.
-- 🔐 Aspiring cybersecurity professional.
+- 🎓 Studying Information Security at FATEC Araraquara.
+- 🌐 Learning networking fundamentals and TCP/IP.
+- 🐧 Exploring Linux and command-line tools.
+- 🐍 Practicing Python and programming logic.
+- 🔐 Working toward a career in cybersecurity.
 
-## Currently Learning
+## Technical Foundations
 
-- **Networking:** TCP/IP, IPv4, IPv6, subnetting, DNS, DHCP, and NAT.
-- **Network Troubleshooting:** `ping`, `tracert`, `nslookup`, `netstat`, and `arp`.
-- **Infrastructure:** Routers, switches, and firewalls.
-- **Programming:** Python fundamentals and problem-solving.
-- **Information Security:** Core concepts and security fundamentals.
+| Area | Topics |
+|---|---|
+| Networking | TCP/IP, IPv4, IPv6, DNS, DHCP, NAT |
+| Network Diagnostics | ping, tracert, nslookup, netstat, arp |
+| Programming | Python fundamentals, logic, problem-solving |
+| Systems | Linux fundamentals and CLI |
 
-## Projects & Coursework
+## Projects
 
 ### [Aulas-FATEC](https://github.com/kewksv/Aulas-FATEC)
 
-Academic exercises and programming activities developed during my Information Security degree.
+Academic exercises and practical activities from my Information Security degree.
 
-**Focus:** Python fundamentals, programming logic, and practical exercises.
+- Python fundamentals and programming logic.
+- Input, output, conditionals, and arithmetic operations.
+- Exercises organized to document my learning progress.
 
-## Goals
+## Current Goals
 
-- Strengthen my foundations in networking and Linux.
-- Develop practical cybersecurity skills through authorized labs.
-- Build projects that demonstrate my technical progress.
-- Pursue an entry-level opportunity in IT and cybersecurity.
+- Strengthen my knowledge of networking and Linux.
+- Practice cybersecurity in authorized lab environments.
+- Build and document projects that demonstrate my skills.
+- Prepare for an entry-level opportunity in IT and cybersecurity.
 
 ---
 
-*Learning, practicing, and building one step at a time.*
+*Learning by doing. Improving one step at a time.*
